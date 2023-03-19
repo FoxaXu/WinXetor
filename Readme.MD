@@ -1,3 +1,5 @@
+WinXetor 是一个Windows操作系统的一个工具
+
 欢迎参观我的仓库
 这里是存放WinXetor源代码的地方，部署可能不会及时更新
 如果有需要可以发邮件 foxaxudecvin@outlook.com
